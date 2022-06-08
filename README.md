@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnkitKumarh15
+- 👋 Hi, I’m @Ankit Kumar
 - 👀 I’m interested in MERN stack 
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on MERN stack developer
