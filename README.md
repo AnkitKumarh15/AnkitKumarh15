@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ankit Kumar
 - 👀 I’m interested in Full Stack Development 
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on MERN stack developer
+- 
 - 📫 How to reach me ankitraj1693@gmail.com
 
 <!---
