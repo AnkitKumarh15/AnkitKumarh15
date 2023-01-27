@@ -1,17 +1,15 @@
-<img align="right" alt="Coding" width="970" height="250" src="https://images.pexels.com/photos/11035544/pexels-photo-11035544.jpeg?auto=compress&cs=tinysrgb&w=600">                                       
-
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 
 <h3 align="center">Competitive Programmer | Data Science | C++ | Web Development </h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkumarh15&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkumarh15" /> </p>
 
 - 🌱 I’m currently learning more about **React.js, DSA, Databases, System Design, Web Development**
-- 🌱 Pursuing Computer Science and Engineering at **Lovely Professional University, Punjab, India **
+- 🌱 Pursuing Computer Science and Engineering at <b>Lovely Professional University, Punjab, India </b>
 - 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/ankitkumarh15/articles]
-- 📫 How to reach me **ankitraj1693@gmail.com**
+- 📫 Reach me at **ankitraj1693@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
