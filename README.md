@@ -2,9 +2,8 @@
 <h3 align="center">A passionate Competitive Programmer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkumarh15&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkumarh15" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitkumarh15" alt="ankitkumarh15" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkumarh15&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkumarh15" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ankit_adventure" target="blank"><img src="https://img.shields.io/twitter/follow/ankit_adventure?logo=twitter&style=for-the-badge" alt="ankit_adventure" /></a> </p>
 
@@ -27,11 +26,9 @@
 <a href="https://www.youtube.com/c/ankit harsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ankit harsh" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ankitkumar15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ankitkumar15" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ankitkumarh15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ankitkumarh15" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ankitkumar15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ankitkumar15" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ankitkumar15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankitkumar15" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@ankitraj1693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ankitraj1693" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/(<ankitkumarh15>/ankitkumarh15)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="(<ankitkumarh15>/ankitkumarh15)" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/ankitkumar15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="ankitkumar15" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
