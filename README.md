@@ -9,7 +9,7 @@
 
 <h3 align="left">👨🏻‍💻 About Me: </h3>
 
--  I’m currently learning more about **React.js, DSA, Databases, System Design, Web Development**
+-  I’m have good knowledge about **DSA, Full Stack Development, Data Science and Databases**
 -  Pursuing Computer Science and Engineering at <b>Lovely Professional University, Punjab, India </b>
 -  I regularly write articles on [https://auth.geeksforgeeks.org/user/ankitkumarh15/articles]
 -  Reach me at **ankitraj1693@gmail.com**
