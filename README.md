@@ -9,7 +9,7 @@
 
 <h3 align="left">👨🏻‍💻 About Me: </h3>
 
--  I’m have good knowledge about **DSA, Full Stack Development, Data Science and Databases**
+-  Passion for programming and proficient in **DSA, MERN Stack Developer, Data Science , Databases, MySQL**
 -  Pursuing Computer Science and Engineering at <b>Lovely Professional University, Punjab, India </b>
 -  I regularly write articles on [https://auth.geeksforgeeks.org/user/ankitkumarh15/articles]
 -  Reach me at **ankitraj1693@gmail.com**
