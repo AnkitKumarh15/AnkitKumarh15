@@ -11,8 +11,8 @@
 
 -  Passion for programming and proficient in ** MERN Stack Developer, Data Science, DSA, Databases(MySQL/MongoDB), Nodejs, React, Expressjs**
 - <b> Software Developer Intern</b>
--  Btech CSE from <b>Lovely Professional University, Punjab, India </b>
--  Reach to my articles at [https://auth.geeksforgeeks.org/user/ankitkumarh15/articles]
+-  B.tech CSE from <b>Lovely Professional University, Punjab, India </b>
+-  Reach to my articles at 👇 [https://auth.geeksforgeeks.org/user/ankitkumarh15/articles]
 -  Reach me at **ankitraj1693@gmail.com**
 
 <br>
