@@ -10,7 +10,7 @@
 <h3 align="left">👨🏻‍💻 About Me: </h3>
 
 -  Proficient in MERN Stack, Data Science, DSA, Databases(MySQL/MongoDB)
--  <b> Software Developer Intern</b>
+-  <b> SDE Intern</b>
 -  B.tech CSE from <b>Lovely Professional University, Punjab, India </b>
 -  Reach to my articles at 👇 [https://auth.geeksforgeeks.org/user/ankitkumarh15/articles]
 -  Reach me at **ankitraj1693@gmail.com**
