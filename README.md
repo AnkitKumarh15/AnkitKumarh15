@@ -9,9 +9,10 @@
 
 <h3 align="left">👨🏻‍💻 About Me: </h3>
 
--  Passion for programming and proficient in **DSA, MERN Stack Developer, Data Science , Databases, MySQL**
--  Pursuing Computer Science and Engineering at <b>Lovely Professional University, Punjab, India </b>
--  I regularly write articles on [https://auth.geeksforgeeks.org/user/ankitkumarh15/articles]
+-  Passion for programming and proficient in **DSA, MERN Stack Developer, Data Science , Databases, MySQL, Nodejs, React, MongoDB, Expressjs**
+- <b> Software Developer Intern</b>
+-  Computer Science and Engineering at <b>Lovely Professional University, Punjab, India </b>
+-  Reach to my articles at [https://auth.geeksforgeeks.org/user/ankitkumarh15/articles]
 -  Reach me at **ankitraj1693@gmail.com**
 
 <br>
